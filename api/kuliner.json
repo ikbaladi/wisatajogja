@@ -1,0 +1,125 @@
+{
+    "kuliner": [
+      {
+        "id": 1,
+        "nama": "Gudeg Yu Djum",
+        "deskripsi": "Gudeg Yu Djum adalah warung kuliner yang terkenal dengan hidangan khas Yogyakarta, yaitu gudeg. Gudeg disajikan dengan cita rasa yang autentik, menggunakan bumbu tradisional yang diwariskan dari generasi ke generasi. Pengunjung dapat menikmati kelezatan gudeg di suasana yang nyaman dan tradisional di Jl. Wijilan No. 167, Wijilan, Yogyakarta. Warung ini buka setiap hari dari pukul 08.00 hingga 22.00 WIB.",
+        "alamat": "Jl. Wijilan No. 167, Wijilan, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 08.00 WIB - 22.00 WIB",
+        "kordinat": "-7.782580, 110.360336",
+        "gambar_url": "https://www.wsrentaljogja.com/wp-content/uploads/2022/03/44827297_1965151683779312_6617457597585618133_n.jpg",
+        "kategori": "Kuliner Khas",
+        "rating": 4.5,
+        "jumlah_ulasan": 120
+      },
+      {
+        "id": 2,
+        "nama": "Mie Ayam Tumini",
+        "deskripsi": "Mie Ayam Tumini merupakan warung mie ayam yang legendaris di Yogyakarta. Dikenal dengan mie ayamnya yang kenyal dan bumbu khas, warung ini menjadi favorit banyak orang. Lokasinya berada di Jl. Kaliurang Km 5,5 No. 50, Sleman, Yogyakarta, dan buka setiap hari mulai pukul 10.00 hingga 20.00 WIB. Rasakan kenikmatan mie ayam ala Tumini yang lezat dan memikat selera.",
+        "alamat": "Jl. Kaliurang Km 5,5 No. 50, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 10.00 WIB - 20.00 WIB",
+        "kordinat": "-7.750764, 110.377308",
+        "gambar_url": "https://static.promediateknologi.id/crop/0x0:0x0/x/photo/p2/51/2023/06/06/mie-ayam-tumini-2875328429.jpg",
+        "kategori": "Mie Ayam",
+        "rating": 4.2,
+        "jumlah_ulasan": 95
+      },
+      {
+        "id": 3,
+        "nama": "Sate Klathak Pak Pong",
+        "deskripsi": "Sate Klathak Pak Pong adalah tempat yang harus dikunjungi bagi pecinta sate. Terletak di Jl. Parangtritis Km 10, Kretek, Bantul, Yogyakarta, warung ini menawarkan sate klathak dengan presentasi unik dan cita rasa yang memikat. Dibuka setiap hari mulai pukul 17.00 hingga 22.00 WIB, warung ini menjadi destinasi kuliner favorit di Yogyakarta. Rasakan kelezatan sate klathak yang lezat dan berbeda di sini.",
+        "alamat": "Jl. Parangtritis Km 10, Kretek, Bantul, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 17.00 WIB - 22.00 WIB",
+        "kordinat": "-7.998053, 110.408868",
+        "gambar_url": "https://lh3.googleusercontent.com/A34ihMGblEPHyTMp1ybktfROczJKohVOcmcfQAYB_IqpV7OCkzdpZDx28LqtlfBgBslJIVm4mtscIzA1h06R3_SO4TkY4_BIVeV9Cie4tKUB7ldsLVkTvNGoDLvq1I82Y0k_mqwbO3EbBU68-SWOxA",
+        "kategori": "Kuliner Khas",
+        "rating": 4.7,
+        "jumlah_ulasan": 150
+      },
+      {
+        "id": 4,
+        "nama": "Pecel Solo Bu Asih",
+        "deskripsi": "Pecel Solo Bu Asih menghadirkan sajian pecel Solo dengan bumbu kacang yang lezat dan sayuran segar. Terletak di Jl. Wates Km 10, Palbapang, Sleman, Yogyakarta, warung ini buka setiap hari mulai pukul 09.00 hingga 20.00 WIB. Rasakan kenikmatan cita rasa pecel Solo yang otentik dan menggugah selera di Pecel Solo Bu Asih.",
+        "alamat": "Jl. Wates Km 10, Palbapang, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 09.00 WIB - 20.00 WIB",
+        "kordinat": "-7.720671, 110.347461",
+        "gambar_url": "https://asset-2.tstatic.net/solo/foto/bank/images/ilustrasi-pecel-madiun.jpg",
+        "kategori": "Kuliner Khas",
+        "rating": 4.4,
+        "jumlah_ulasan": 110
+      },
+      {
+        "id": 5,
+        "nama": "Gado-Gado Bu Atmo",
+        "deskripsi": "Gado-Gado Bu Atmo menawarkan gado-gado dengan campuran bumbu kacang yang lezat dan sayuran segar. Lokasinya berada di Jl. Imogiri Timur Km 10, Imogiri, Bantul, Yogyakarta. Warung ini buka setiap hari mulai pukul 11.00 hingga 21.00 WIB, sehingga pengunjung dapat menikmati hidangan lezat ini kapan pun mereka mau. Nikmati kelezatan gado-gado khas Bu Atmo di suasana yang nyaman dan bersahabat.",
+        "alamat": "Jl. Imogiri Timur Km 10, Imogiri, Bantul, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 11.00 WIB - 21.00 WIB",
+        "kordinat": "-7.949786, 110.354548",
+        "gambar_url": "https://www.masakapahariini.com/wp-content/uploads/2019/01/gado-gado-MAHI.jpg",
+        "kategori": "Kuliner Khas",
+        "rating": 4.6,
+        "jumlah_ulasan": 130
+      },
+      {
+        "id": 6,
+        "nama": "Nasi Campur Bu Ageng",
+        "deskripsi": "Nasi Campur Bu Ageng menyajikan nasi campur dengan berbagai hidangan tradisional yang lezat. Terletak di Jl. Magelang Km 8, Mlati, Sleman, Yogyakarta, warung ini buka setiap hari mulai pukul 07.00 hingga 18.00 WIB. Nikmati kelezatan nasi campur Bu Ageng dengan suasana yang tenang dan nyaman.",
+        "alamat": "Jl. Magelang Km 8, Mlati, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 07.00 WIB - 18.00 WIB",
+        "kordinat": "-7.753579, 110.394238",
+        "gambar_url": "https://myfunfoodiary.com/wp-content/uploads/2016/08/Nasi-Campur-Terik-Daging-Sapi-at-Warung-Masakan-Omah-Bu-Ageng-by-Myfunfoodiary-fb.jpg",
+        "kategori": "Rumah Makan",
+        "rating": 4.8,
+        "jumlah_ulasan": 180
+      },
+      {
+        "id": 7,
+        "nama": "Bakmi Jawa Mbah Mo",
+        "deskripsi": "Bakmi Jawa Mbah Mo adalah tempat yang cocok untuk menikmati bakmi Jawa dengan cita rasa khas dan bumbu yang menggugah selera. Berlokasi di Jl. Kusumanegara No. 25, Yogyakarta, warung ini buka setiap hari mulai pukul 09.00 hingga 21.00 WIB. Rasakan kelezatan bakmi Jawa ala Mbah Mo yang nikmat dan mengenyangkan.",
+        "alamat": "Jl. Kusumanegara No. 25, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 09.00 WIB - 21.00 WIB",
+        "kordinat": "-7.791769, 110.364561",
+        "gambar_url": "https://kanaljogja.id/wp-content/uploads/2015/01/bakmi-mbah-mo.jpeg",
+        "kategori": "Rumah Makan",
+        "rating": 4.3,
+        "jumlah_ulasan": 100
+      },
+      {
+        "id": 8,
+        "nama": "Pisang Goreng Mbak Lin",
+        "deskripsi": "Pisang Goreng Mbak Lin menawarkan pisang goreng dengan tekstur lembut dan renyah yang disajikan dengan berbagai pilihan topping. Warung ini berlokasi di Jl. Kaliurang Km 15, Sleman, Yogyakarta, dan buka setiap hari mulai pukul 16.00 hingga 22.00 WIB. Rasakan sensasi pisang goreng yang unik dan lezat di Pisang Goreng Mbak Lin.",
+        "alamat": "Jl. Kaliurang Km 15, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 16.00 WIB - 22.00 WIB",
+        "kordinat": "-7.708980, 110.417521",
+        "gambar_url": "https://www.blibli.com/friends-backend/wp-content/uploads/2023/03/B300012-Cover-resep-pisang-goreng-1024x683.jpg",
+        "kategori": "Rumah Makan",
+        "rating": 4.9,
+        "jumlah_ulasan": 200
+      },
+      {
+        "id": 9,
+        "nama": "Soto Ayam Pak Marto",
+        "deskripsi": "Soto Ayam Pak Marto menawarkan soto ayam dengan kuah gurih dan daging yang empuk. Warung ini berlokasi di Jl. Magelang Km 5, Mlati, Sleman, Yogyakarta, dan buka setiap hari mulai pukul 10.00 hingga 20.00 WIB. Nikmati kelezatan soto ayam khas Pak Marto di suasana yang hangat dan ramah.",
+        "alamat": "Jl. Magelang Km 5, Mlati, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 10.00 WIB - 20.00 WIB",
+        "kordinat": "-7.744536, 110.390195",
+        "gambar_url": "https://glebekitchen.com/wp-content/uploads/2019/11/sotoayamtopbowl.jpg",
+        "kategori": "Rumah Makan",
+        "rating": 4.5,
+        "jumlah_ulasan": 150
+      },
+      {
+        "id": 10,
+        "nama": "Es Dawet Selasih",
+        "deskripsi": "Es Dawet Selasih adalah tempat terbaik untuk menikmati es dawet dengan cita rasa yang menyegarkan. Terletak di Jl. Solo Km 12, Sleman, Yogyakarta, warung ini buka setiap hari mulai pukul 12.00 hingga 19.00 WIB. Rasakan sensasi kelezatan es dawet dengan campuran selasih yang kenyal di Es Dawet Selasih.",
+        "alamat": "Jl. Solo Km 12, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 12.00 WIB - 19.00 WIB",
+        "kordinat": "-7.729824, 110.359967",
+        "gambar_url": "https://img.inews.co.id/media/600/files/inews_new/2023/10/01/dawet_bu_dermi_solo.jpg",
+        "kategori": "Cafe",
+        "rating": 4.7,
+        "jumlah_ulasan": 170
+      }
+    ]
+  }
+  

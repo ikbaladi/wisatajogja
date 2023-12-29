@@ -1,0 +1,75 @@
+{
+    "tempat_ibadah": [
+      {
+        "id": 1,
+        "nama": "Masjid Agung Sultan Hamengkubuwono IX",
+        "jenis": "masjid",
+        "latitude": "-7.784158",
+        "longitude": "110.367827"
+      },
+      {
+        "id": 2,
+        "nama": "Candi Prambanan",
+        "jenis": "candi",
+        "latitude": "-7.751236",
+        "longitude": "110.491964"
+      },
+      {
+        "id": 3,
+        "nama": "Gereja Ayam (GKJW Sendangsono)",
+        "jenis": "gereja",
+        "latitude": "-7.607248",
+        "longitude": "110.204478"
+      },
+      {
+        "id": 4,
+        "nama": "Masjid Pathok Negara",
+        "jenis": "masjid",
+        "latitude": "-7.778747",
+        "longitude": "110.414809"
+      },
+      {
+        "id": 5,
+        "nama": "Vihara Dhammacakka",
+        "jenis": "vihara",
+        "latitude": "-7.795492",
+        "longitude": "110.366346"
+      },
+      {
+        "id": 6,
+        "nama": "Gereja Blenduk",
+        "jenis": "gereja",
+        "latitude": "-7.801875",
+        "longitude": "110.364186"
+      },
+      {
+        "id": 7,
+        "nama": "Masjid Gede Kauman Yogyakarta",
+        "jenis": "masjid",
+        "latitude": "-7.794160",
+        "longitude": "110.365443"
+      },
+      {
+        "id": 8,
+        "nama": "Pura Mangkunegaran",
+        "jenis": "pura",
+        "latitude": "-7.791495",
+        "longitude": "110.363859"
+      },
+      {
+        "id": 9,
+        "nama": "Gereja Santo Antonius Kotabaru",
+        "jenis": "gereja",
+        "latitude": "-7.798238",
+        "longitude": "110.362086"
+      },
+      {
+        "id": 10,
+        "nama": "Masjid Agung Kotagede",
+        "jenis": "masjid",
+        "latitude": "-7.805847",
+        "longitude": "110.387574"
+      }
+    ]
+  }
+  

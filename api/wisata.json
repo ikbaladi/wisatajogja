@@ -1,0 +1,125 @@
+{
+    "wisata": [
+      {
+        "id": 1,
+        "nama": "Taman Sari",
+        "deskripsi": "Taman Sari adalah kompleks taman dan istana yang dibangun oleh Sultan Hamengkubuwono I pada tahun 1758. Tempat ini memiliki sejarah yang kaya dan menarik dengan arsitektur yang indah.",
+        "alamat": "Jl. Tamanan, Kraton, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 09.00 WIB - 15.00 WIB",
+        "koordinat": "-7.810682, 110.362354",
+        "gambar_url": "https://awsimages.detik.net.id/community/media/visual/2023/04/11/taman-sari_169.png?w=1200",
+        "kategori": "Sejarah",
+        "rating": 4.6,
+        "jumlah_ulasan": 150
+      },
+      {
+        "id": 2,
+        "nama": "Malioboro Street",
+        "deskripsi": "Malioboro adalah jalan utama di Yogyakarta yang terkenal dengan kehidupan malamnya, toko-toko suvenir, dan keramaian. Pengunjung dapat menikmati belanja dan suasana khas Yogyakarta di sini.",
+        "alamat": "Jl. Malioboro, Yogyakarta",
+        "jam_buka_tutup": "Buka 24 Jam",
+        "koordinat": "-7.792405, 110.365800",
+        "gambar_url": "https://www.wsrentaljogja.com/wp-content/uploads/2016/08/malioboro_insta.jpg",
+        "kategori": "Belanja",
+        "rating": 4.3,
+        "jumlah_ulasan": 120
+      },
+      {
+        "id": 3,
+        "nama": "Candi Prambanan",
+        "deskripsi": "Candi Prambanan adalah candi Hindu terbesar di dunia, yang dibangun pada abad ke-9. Tempat ini terkenal dengan relief-reliefnya yang indah dan keindahan pemandangannya.",
+        "alamat": "Jl. Raya Solo - Yogyakarta No.16, Sleman, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 06.00 WIB - 17.00 WIB",
+        "koordinat": "-7.607097, 110.203542",
+        "gambar_url": "https://blog.tiket.com/wp-content/uploads/2021/01/Candi-Prambanan-3.jpg",
+        "kategori": "Sejarah",
+        "rating": 4.8,
+        "jumlah_ulasan": 200
+      },
+      {
+        "id": 4,
+        "nama": "Pantai Parangtritis",
+        "deskripsi": "Pantai Parangtritis adalah salah satu pantai terkenal di Yogyakarta dengan pasir hitamnya. Pengunjung dapat menikmati pemandangan sunset yang spektakuler.",
+        "alamat": "Parangtritis, Bantul, Yogyakarta",
+        "jam_buka_tutup": "Buka 24 Jam",
+        "koordinat": "-7.953614, 110.324912",
+        "gambar_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Dusk_till_dawn_%28cropped%29.jpg",
+        "kategori": "Pantai",
+        "rating": 4.5,
+        "jumlah_ulasan": 180
+      },
+      {
+        "id": 5,
+        "nama": "Keraton Yogyakarta",
+        "deskripsi": "Keraton Yogyakarta, juga dikenal sebagai Kraton Ngayogyakarta Hadiningrat, adalah istana resmi Sultan Hamengkubuwono. Tempat ini menampilkan seni, budaya, dan sejarah Yogyakarta.",
+        "alamat": "Jl. Rotowijayan Blok No. 1, Panembahan, Kraton, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 09.00 WIB - 15.00 WIB",
+        "koordinat": "-7.808384, 110.364555",
+        "gambar_url": "https://aliftourjogja.com/wp-content/uploads/2020/03/keraton-jogja-1.jpg",
+        "kategori": "Sejarah",
+        "rating": 4.7,
+        "jumlah_ulasan": 160
+      },
+      {
+        "id": 6,
+        "nama": "Gunung Kidul",
+        "deskripsi": "Gunung Kidul adalah wilayah pegunungan yang terkenal dengan pemandangan alamnya yang indah. Tempat ini cocok untuk trekking dan menikmati keindahan alam.",
+        "alamat": "Gunung Kidul, Yogyakarta",
+        "jam_buka_tutup": "Buka 24 Jam",
+        "koordinat": "-7.995050, 110.617898",
+        "gambar_url": "https://img.okezone.com/content/2023/05/06/406/2809302/mengulik-sejarah-dan-asal-usul-kenapa-dinamakan-gunungkidul-Y7fWF4cNag.JPG",
+        "kategori": "Alam",
+        "rating": 4.4,
+        "jumlah_ulasan": 140
+      },
+      {
+        "id": 7,
+        "nama": "Taman Pintar Yogyakarta",
+        "deskripsi": "Taman Pintar adalah tempat rekreasi interaktif yang menawarkan berbagai eksperimen ilmiah dan permainan pendidikan untuk anak-anak dan keluarga.",
+        "alamat": "Jl. Panembahan Senopati No.1-3, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 08.00 WIB - 17.00 WIB",
+        "koordinat": "-7.795837, 110.366997",
+        "gambar_url": "https://www.yogyes.com/id/yogyakarta-tourism-object/other/taman-pintar/1.jpg",
+        "kategori": "Edukasi",
+        "rating": 4.2,
+        "jumlah_ulasan": 100
+      },
+      {
+        "id": 8,
+        "nama": "Bukit Bintang Yogyakarta",
+        "deskripsi": "Bukit Bintang adalah spot populer untuk menikmati pemandangan kota Yogyakarta, terutama saat malam hari. Pengunjung dapat melihat lampu-lampu kota yang berkelap-kelip.",
+        "alamat": "Jl. Magelang, Yogyakarta",
+        "jam_buka_tutup": "Buka 24 Jam",
+        "koordinat": "-7.789928, 110.376098",
+        "gambar_url": "https://www.wsrentaljogja.com/wp-content/uploads/2016/10/@safrilaliyatno-600x400.jpg",
+        "kategori": "Alam",
+        "rating": 4.6,
+        "jumlah_ulasan": 130
+      },
+      {
+        "id": 9,
+        "nama": "Museum Affandi",
+        "deskripsi": "Museum Affandi adalah museum seni yang menampilkan karya-karya seniman Indonesia terkenal, Affandi. Museum ini juga menampilkan arsitektur unik dan taman yang indah.",
+        "alamat": "Jl. Laksda Adisucipto No.167, Yogyakarta",
+        "jam_buka_tutup": "Setiap Hari Pukul 09.00 WIB - 16.00 WIB",
+        "koordinat": "-7.766874, 110.402410",
+        "gambar_url": "https://budaya.jogjaprov.go.id/view_image/view/4268/20220111_063100-1.jpg",
+        "kategori": "Museum",
+        "rating": 4.4,
+        "jumlah_ulasan": 110
+      },
+      {
+        "id": 10,
+        "nama": "Hutan Pinus Imogiri",
+        "deskripsi": "Hutan Pinus Imogiri adalah area hutan pinus yang menawarkan udara segar dan pemandangan yang menenangkan. Cocok untuk piknik dan kegiatan outdoor.",
+        "alamat": "Hutan Pinus Imogiri, Bantul, Yogyakarta",
+        "jam_buka_tutup": "Buka 24 Jam",
+        "koordinat": "-7.926834, 110.319632",
+        "gambar_url": "https://visitingjogja.jogjaprov.go.id/wp-content/uploads/2020/03/288.jpg",
+        "kategori": "Alam",
+        "rating": 4.3,
+        "jumlah_ulasan": 90
+      }
+    ]
+  }
+  
